@@ -1,7 +1,8 @@
 - Hi, I’m @BirdyBirdy97
-- I’m interested in astronomy, beading, building websites, watercolour, and playing the guitar.
-- I’m currently learning HTML5, CSS, JavaScript, and C++
-- I'm building my first website, an online store, at the moment :)
+- I’m interested in astronomy, beading, back end developement, watercolour, and playing the guitar.
+- I’m currently learning Python and can build websites unprofessionally in HTML and CSS (lol) I have dabbled with C++, enough to understand mostly what I'm looking at, but not quite enough yet to build anything.
+- I'm building my first website, an online store, at the moment :) I'm also taking the 100 Days of Code Python course on Udemy and plan on getting my CompTIA cert afterwards
+- As for human languages, I speak English, French, and am learning Nishnaabemowin.
 - How to reach me: code.raqoon@gmail.com
 
 <!---
