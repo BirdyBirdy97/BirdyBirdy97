@@ -1,5 +1,11 @@
 # Hi, I’m Rose (or Raven)
 
+**Email: code.raqoon@gmail.com**
+
+**Discord: raven.raccoon.code#3364**
+
+**Linkedin: https://www.linkedin.com/in/rose-bishop-506760242/**
+
 ## Computer Languages I know/Experience (in order of most XP to least)
 ```
 Python 3, HTML5, CSS
@@ -16,7 +22,7 @@ I have most of my own personal website coded start to finish with CSS and HTML5,
 Back End Developement
 Inventing/Building/Creating things
 Art/Cultures/Languages
-Preserving Nature and Culture'
+Preserving Nature and Culture
 Puzzles
 Beading, Watercolour Painting, and Playing Guitar
 Astronomy
