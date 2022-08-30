@@ -48,11 +48,11 @@ I'm looking for a Back End Dev or a Web Dev position, though for the time being,
 
 ## If you're interested in working with me, hit me up! I'll get back to you as soon as possible :)
 
-*Email: code.raqoon@gmail.com
+**Email: code.raqoon@gmail.com**
 
-*Discord: raven.raccoon.code#3364
+**Discord: raven.raccoon.code#3364**
 
-*Linkedin: https://www.linkedin.com/in/rose-bishop-506760242/
+**Linkedin: https://www.linkedin.com/in/rose-bishop-506760242/**
 
 <!---
 BirdyBirdy97/BirdyBirdy97 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
