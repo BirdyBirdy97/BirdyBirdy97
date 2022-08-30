@@ -1,4 +1,4 @@
-# Hi, I’m Rose (or Raven depending on when we met)
+# Hi, I’m Rose (or Raven)
 
 ## Computer Languages I know/Experience (in order of most XP to least)
 ```
@@ -8,6 +8,7 @@ C++
 Git
 ```
 I'm currently taking the Python 100 Days of Code course by AppBrewery and have completed the HTML and CSS Crash Course with Kevin Powell on Scrimba. I've almost completed the JavaScript course on Codecademy and have done a bit with the C++ course on Codecademy, though it's been a while for both. I had previously started a course on Coursera (by Google) focusing on Automating with Python and using Git. 
+
 I have most of my own personal website coded start to finish with CSS and HTML5, but am waiting to publish it for when I can build a functioning shopping cart. My most recent/impressive projects are pinned.
 
 ## My Interests
@@ -35,16 +36,18 @@ I have most of my own personal website coded start to finish with CSS and HTML5,
 
 ## Where am I looking to head?
 For now, the language I'm interested in learning next is probably one of the following:
-SQL
-Ruby
-Rust
-JavaScript
-Lua
+-SQL
+-Ruby
+-Rust
+-JavaScript
+-Lua
 I'm looking for a Back End Dev or a Web Dev position, though for the time being, I prefer Back End. I am willing and able to learn new skills/languages/software quickly, so although I'm quite green, I am extremely adaptable and amicable.
 
 ## If you're interested in working with me, hit me up! I'll get back to you as soon as possible :)
 Email: code.raqoon@gmail.com
+
 Discord: raven.raccoon.code#3364
+
 Linkedin: https://www.linkedin.com/in/rose-bishop-506760242/
 
 <!---
