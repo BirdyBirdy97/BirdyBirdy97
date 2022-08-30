@@ -11,6 +11,7 @@ I'm currently taking the Python 100 Days of Code course by AppBrewery and have c
 I have most of my own personal website coded start to finish with CSS and HTML5, but am waiting to publish it for when I can build a functioning shopping cart. My most recent/impressive projects are pinned.
 
 ## My Interests
+```
 -Back End Developement
 -Inventing/Building/Creating things
 -Art/Cultures/Languages
@@ -18,8 +19,10 @@ I have most of my own personal website coded start to finish with CSS and HTML5,
 -Puzzles
 -Beading, Watercolour Painting, and Playing Guitar
 -Astronomy
+```
 
 ## Human Skills
+```
 -Speak English, conversational French (B2 Canadian Level), and am learning Anishnaabemowin
 -Learn quickly and appreciate constructive criticism
 -Work well in a team and am easy to get along with
@@ -28,6 +31,7 @@ I have most of my own personal website coded start to finish with CSS and HTML5,
 -Work well independantly and don't need to be micro-managed
 -Independant starter and can reliably complete tasks in a team or alone 
 -Great communication skills and won't leave the team/manager/boss in the dark as to my progress with a task
+```
 
 ## Where am I looking to head?
 For now, the language I'm interested in learning next is probably one of the following:
