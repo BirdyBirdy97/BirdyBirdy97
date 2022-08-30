@@ -1,10 +1,12 @@
 # Hi, I’m Rose (or Raven depending on when we met)
 
 ## Computer Languages I know/Experience (in order of most XP to least)
--Python 3, HTML5, CSS
--JavaScript
--C++
--Git
+```
+Python 3, HTML5, CSS
+JavaScript
+C++
+Git
+```
 I'm currently taking the Python 100 Days of Code course by AppBrewery and have completed the HTML and CSS Crash Course with Kevin Powell on Scrimba. I've almost completed the JavaScript course on Codecademy and have done a bit with the C++ course on Codecademy, though it's been a while for both. I had previously started a course on Coursera (by Google) focusing on Automating with Python and using Git. 
 I have most of my own personal website coded start to finish with CSS and HTML5, but am waiting to publish it for when I can build a functioning shopping cart. My most recent/impressive projects are pinned.
 
@@ -27,7 +29,7 @@ I have most of my own personal website coded start to finish with CSS and HTML5,
 -Independant starter and can reliably complete tasks in a team or alone 
 -Great communication skills and won't leave the team/manager/boss in the dark as to my progress with a task
 
-###### Where am I looking to head?
+## Where am I looking to head?
 For now, the language I'm interested in learning next is probably one of the following:
 SQL
 Ruby
