@@ -13,30 +13,31 @@ I have most of my own personal website coded start to finish with CSS and HTML5,
 
 ## My Interests
 ```
--Back End Developement
--Inventing/Building/Creating things
--Art/Cultures/Languages
--Preserving Nature and Culture'
--Puzzles
--Beading, Watercolour Painting, and Playing Guitar
--Astronomy
+Back End Developement
+Inventing/Building/Creating things
+Art/Cultures/Languages
+Preserving Nature and Culture'
+Puzzles
+Beading, Watercolour Painting, and Playing Guitar
+Astronomy
 ```
 
 ## Human Skills
 ```
--Speak English, conversational French (B2 Canadian Level), and am learning Anishnaabemowin
--Learn quickly and appreciate constructive criticism
--Work well in a team and am easy to get along with
--Pull my weight in a team to the best of my ability
--Always thinking of better ways to complete an action
--Work well independantly and don't need to be micro-managed
--Independant starter and can reliably complete tasks in a team or alone 
--Great communication skills and won't leave the team/manager/boss in the dark as to my progress with a task
+Speak English, conversational French (B2 Canadian Level), and am learning Anishnaabemowin
+Learn quickly and appreciate constructive criticism
+Work well in a team and am easy to get along with
+Pull my weight in a team to the best of my ability
+Always thinking of better ways to complete an action
+Work well independantly and don't need to be micro-managed
+Independant starter and can reliably complete tasks in a team or alone 
+Great communication skills and won't leave the team/manager/boss in the dark as to my progress with a task
 ```
 
 ## Where am I looking to head?
 
 For now, the language I'm interested in learning next is probably one of the following:
+
 -SQL
 -Ruby
 -Rust
@@ -46,11 +47,10 @@ For now, the language I'm interested in learning next is probably one of the fol
 I'm looking for a Back End Dev or a Web Dev position, though for the time being, I prefer Back End. I am willing and able to learn new skills/languages/software quickly, so although I'm quite green, I am extremely adaptable and amicable.
 
 ## If you're interested in working with me, hit me up! I'll get back to you as soon as possible :)
-Email: code.raqoon@gmail.com
 
-Discord: raven.raccoon.code#3364
-
-Linkedin: https://www.linkedin.com/in/rose-bishop-506760242/
+*Email: code.raqoon@gmail.com
+*Discord: raven.raccoon.code#3364
+*Linkedin: https://www.linkedin.com/in/rose-bishop-506760242/
 
 <!---
 BirdyBirdy97/BirdyBirdy97 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
