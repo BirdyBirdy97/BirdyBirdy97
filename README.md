@@ -37,19 +37,21 @@ Great communication skills and won't leave the team/manager/boss in the dark as 
 ## Where am I looking to head?
 
 For now, the language I'm interested in learning next is probably one of the following:
-
+```
 -SQL
 -Ruby
 -Rust
 -JavaScript
 -Lua
-
+```
 I'm looking for a Back End Dev or a Web Dev position, though for the time being, I prefer Back End. I am willing and able to learn new skills/languages/software quickly, so although I'm quite green, I am extremely adaptable and amicable.
 
 ## If you're interested in working with me, hit me up! I'll get back to you as soon as possible :)
 
 *Email: code.raqoon@gmail.com
+
 *Discord: raven.raccoon.code#3364
+
 *Linkedin: https://www.linkedin.com/in/rose-bishop-506760242/
 
 <!---
